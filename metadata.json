@@ -1,0 +1,5 @@
+{
+  "name": "Arabic Direction",
+  "description": "Elegant arab estetikasi bilan yaratilgan premium Qibla kompasi va namoz vaqtlari ilovasi.",
+  "requestFramePermissions": ["geolocation"]
+}
