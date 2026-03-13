@@ -323,6 +323,7 @@ export default function App() {
         {/* Header */}
         <header className="flex justify-between items-center px-2 pt-4">
           <div className="flex flex-col">
+            <span className="text-[10px] font-bold tracking-[0.3em] uppercase text-[#c5a059]/40 mb-1">ArabMaster</span>
             <h1 className="text-2xl font-light tracking-widest uppercase text-[#c5a059]">
               {activeTab === 'compass' ? 'Qibla Yo\'nalishi' : 
                activeTab === 'dictionary' ? 'Lug\'at' : 
